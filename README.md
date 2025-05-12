@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm SAEED  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**Sa3ed-co/Sa3ed-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=22&duration=3000&pause=1000&color=1A84F7&center=true&vCenter=true&random=true&width=435&lines=Flutter+Developer+;Computer+Science+Graduate+;Always+Learning+New+Things;Software+Engineer" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+  [![](https://visitcount.itsvg.in/api?id=hishaam6618&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🏫 Computer Science graduate
+  
+- 💻 I'm majoring in computer science
+  
+- 👨‍💻 I love using Software as a solution for every `Problem`
+  
+- 🤔 I’m currently open for a `full-time opportunity`
+
+- 🤓 `Always learning new things`
+  
+- 📫 How to reach me **s3eed.c3@gmail.com**
+  
+- ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
+
+
+
+ <br>
+<h2 align="center">🌐 Socials</h2>
+<div align="center">
+<a href="https://linkedin.com/in/saeedbakhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hishaam-elyas" height="30" width="40" /></a>
+<a href="https://fb.com/saeedbakhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hishaam.elyas" height="30" width="40" /></a>
+<a href="https://instagram.com/sa3ed_cj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisham_elyas" height="30" width="40" /></a>
+<a href="https://x.com/sa3ed_cj" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="sa3ed_cjs"  /></a>
+
+</div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
+</div>
+
+---
+
+### ✍️  Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=Hisham-Elyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hisham-Elyas&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisham-Elyas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hisham-Elyas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hisham-Elyas&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
