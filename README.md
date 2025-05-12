@@ -1,9 +1,7 @@
 <h1 align="center">Hi , I'm SAEED  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science;Always+learn+new+thing;Using+Linux+;Software+Engineer;Data+Engineering;Web+Devoloper" alt="Typing SVG" /></a>
- </center>
+ <center <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science;Always+learn+new+thing;Using+Linux+;Software+Engineer;Data+Engineering;Web+Devoloper" alt="Typing SVG" /></a> </center>
 </p>
 
 # 💫 About Me:
