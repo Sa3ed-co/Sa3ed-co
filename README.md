@@ -19,7 +19,7 @@
   
 - 📫 How to reach me **s3eed.c3@gmail.com**
   
-- ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
+
 
 
 
