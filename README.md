@@ -26,7 +26,7 @@
 
 
  <br>
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">  🌐 Socials</h2>
 <div align="center">
 <a href="https://linkedin.com/in/saeed-bakhit-2a017018b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed-bakhit" height="30" width="40" /></a>
 <a href="https://fb.com/sa3edba5it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hishaam.elyas" height="30" width="40" /></a>
