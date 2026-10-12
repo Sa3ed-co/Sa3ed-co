@@ -30,8 +30,8 @@
 <div align="center">
 <a href="https://linkedin.com/in/saeed-bakhit-2a017018b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed-bakhit" height="30" width="40" /></a>
 <a href="https://fb.com/sa3edba5it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hishaam.elyas" height="30" width="40" /></a>
-<a href="https://instagram.com/sa3ed_cj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisham_elyas" height="30" width="40" /></a>
-<a href="https://x.com/sa3ed_cj" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="sa3ed_cjs"  /></a>
+<a href="https://instagram.com/sa3ed_co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisham_elyas" height="30" width="40" /></a>
+<a href="https://x.com/sa3ed_cj" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="sa3ed_co"  /></a>
 
 </div>
 
